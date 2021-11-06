@@ -14,9 +14,7 @@
 
 全书基于Python3的实践代码和数据均已分别开源在Gitee和Github平台：
 - 推荐中国大陆地区的读者，根据如下链接从Gitee平台下载： https://gitee.com/godfanmiao/ML-Kaggle-Gitee-2022
-- 建议港、澳、台，及海外地区的读者，根据如下链接从Github平台下载：https://github.com/godfanmiao/ML-Kaggle-Github-2022 
-
-
+- 建议港、澳、台，及海外地区的读者，根据如下链接从Github平台下载：https://github.com/godfanmiao/ML-Kaggle-Github-2022
 
 ### 2. 作者介绍
 
@@ -28,23 +26,18 @@
 - 2017年，获得清华大学计算机科学与技术工学博士学位。
 - 2019年，百度-清华大学软件学院联合培养博士后出站。
 
-
-
-
 ### 3. 书籍目录
 
-![](./Images/contents_1.png)
-![](./Images/contents_2.png)
+<img src="./Images/contents_1.png" width=800px >
+<img src="./Images/contents_2.png" width=800px >
+
 
 ### 4. 购书链接
 
-- 京东：
-- 当当：
-- 亚马逊：
+<img src="./Images/book.jpeg" width=500px >
 
-
-### 5. 书友官方QQ群
-![](./Images/QQ_group.png)
+### 5. 官方QQ群
+<img src="./Images/QQ_group.png" width=500px >
 
 ### 6. 勘误列表
 
