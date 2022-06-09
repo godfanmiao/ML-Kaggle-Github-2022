@@ -19,24 +19,22 @@
 ### 2. 作者介绍
 
 范淼 
-[(电子邮箱)](mailto:fanmiao.cslt.thu@gmail.com)[(新浪微博)](https://www.weibo.com/u/2687929943)：
-- 2008年，就读于北京邮电大学软件学院，软件工程专业。
-- 2012年，保送至清华大学计算机系，攻读工学博士学位；研究方向涉及机器学习理论与应用技术。
-- 2015年，受国家留学基金委公派，赴美国纽约大学计算机系联合培养。
-- 2017年，获得清华大学计算机科学与技术工学博士学位。
-- 2019年，百度-清华大学软件学院联合培养博士后出站。
+[(个人主页)](mailto:fanmiao.cslt.thu@gmail.com)[(新浪微博)](https://www.weibo.com/u/2687929943)：
+- XXXXX
+- XXXXX
+
+徐晟桐
+- XXXXX
+- XXXXX
+
 
 ### 3. 书籍目录
-
-<img src="./Images/contents_1.png" width=800px >
-<img src="./Images/contents_2.png" width=800px >
 
 
 ### 4. 购书链接
 
-<img src="./Images/book.jpeg" width=500px >
 
-### 5. 官方QQ群
+### 5. 书友QQ群
 <img src="./Images/QQ_group.png" width=500px >
 
 ### 6. 勘误列表
