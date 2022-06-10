@@ -36,7 +36,7 @@
 <img src="./Images/contents_2.png" width=800px >
 
 ### 4. 购书链接
-
+待定
 
 ### 5. 书友QQ群
 <img src="./Images/QQ_group.png" width=500px >
