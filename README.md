@@ -19,7 +19,7 @@
 ### 2. 作者介绍
 
 范淼 
-[(个人主页)](https://godfanmiao.github.io/homepage/)[(新浪微博)](https://www.weibo.com/u/2687929943)：
+[(个人主页)](https://godfanmiao.github.io/homepage/)[(新浪微博)](https://www.weibo.com/fanmiaothu)：
 - 自动驾驶与机器人技术高级研发总监，中国人民大学信息资源管理学院研究生行业导师，清华大学软件学院博士后、计算机系工学博士
 - 在国际顶级期刊、会议上发表论文20余篇；获美国、中国发明专利授权18项。
 
@@ -30,8 +30,8 @@
 
 
 ### 3. 书籍目录
-<img src="./Images/contents_1.png" width=500px >
-<img src="./Images/contents_2.png" width=500px >
+<img src="./Images/contents_1.png" width=800px >
+<img src="./Images/contents_2.png" width=800px >
 
 ### 4. 购书链接
 
