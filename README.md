@@ -39,7 +39,7 @@
 待定
 
 ### 5. 书友QQ群
-<img src="./Images/QQ_group.png" width=500px >
+<img src="./Images/QQ_group.png" width=800px >
 
 ### 6. 勘误列表
 
