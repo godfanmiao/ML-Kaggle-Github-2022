@@ -37,10 +37,10 @@
 
 
 ### 4. 购书链接
-待定
+<img src="./Images/book.jpeg" width=600px >
 
 ### 5. 书友QQ群
-<img src="./Images/QQ_group.png" width=800px >
+<img src="./Images/QQ_group.png" width=600px >
 
 ### 6. 勘误列表
 
