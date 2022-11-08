@@ -32,15 +32,15 @@
 
 
 ### 3. 书籍目录
-<img src="./Images/contents_1.png" width=800px >
-<img src="./Images/contents_2.png" width=800px >
+<img src="./Images/contents_1.png" width=500px >
+<img src="./Images/contents_2.png" width=500px >
 
 
 ### 4. 购书链接
-<img src="./Images/book.jpeg" width=600px >
+<img src="./Images/book.jpeg" width=500px >
 
 ### 5. 书友QQ群
-<img src="./Images/QQ_group.png" width=600px >
+<img src="./Images/QQ_group.png" width=500px >
 
 ### 6. 勘误列表
 
