@@ -36,12 +36,12 @@
 
 
 ### 3. 书籍目录
-<img src="./Images/contents_1.png" width=500px >
-<img src="./Images/contents_2.png" width=500px >
+<img src="./Images/contents_1.png" width=900px >
+<img src="./Images/contents_2.png" width=900px >
 
 
 ### 4. 购书链接
-<img src="./Images/book.jpg" width=500px >
+<img src="./Images/book.jpg" width=900px >
 
 ### 5. 书友QQ群
-<img src="./Images/QQ_group.png" width=500px >
+<img src="./Images/QQ_group.png" width=900px >
